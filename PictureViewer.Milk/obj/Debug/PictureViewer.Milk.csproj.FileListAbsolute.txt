@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\bin\Debug\PictureViewer.Milk.exe.config
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\bin\Debug\PictureViewer.Milk.exe
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\bin\Debug\PictureViewer.Milk.pdb
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.Form1.resources
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.Properties.Resources.resources
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.csproj.GenerateResource.cache
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.exe
+C:\Users\student\Desktop\PictureViewer.Milk\PictureViewer.Milk\obj\Debug\PictureViewer.Milk.pdb
